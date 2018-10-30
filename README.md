@@ -1,0 +1,1 @@
+# codility-min-max-division-haskell
